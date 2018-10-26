@@ -1,0 +1,217 @@
+F100     |                    |Computer                      |我的电脑                      |::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+F0       |                    |Explorer                      |资源管理器                    |explorer.exe /e,::{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+F1       |                    |MyDocument                    |我的文档                      |explorer.exe
+F8       |                    |ie                            |IE浏览器                      |iexplore.exe
+F1       |                    |mspaint                       |画图                          |mspaint
+F15      |                    |cmd                           |cmd                           |D:\some\cmder\vendor\conemu-maximus5\ConEmu64.exe
+F412     |                    |Calc                          |计算器                        |calc
+F0       |                    |Desktop                       |显示桌面                      |@.\WinCtl.exe MinAll
+F0       |                    |msconfig                      |系统配置                      |msconfig
+F6       |                    |Reg                           |注册表编辑器                  |regedt32
+F0       |                    |myip                          |我的IP地址                    |nslookup
+F0       |                    |dev                           |设备管理器                    |devmgmt.msc
+F0       |                    |Taskmgr                       |任务管理器                    |taskmgr
+F0       |                    |ShutDown                      |立即关机                      |shutdown /s /t 5
+F0       |                    |Reboot                        |立即重启                      |shutdown /r /t 5
+
+F0       |                    |Windows                       |Windows 目录                  |%WINDIR%
+F1       |                    |System32                      |System32 目录                 |%WINDIR%\System32
+F0       |                    |ProgramFiles                  |Program Files 目录            |%PROGRAMFILES%
+F12      |                    |Recent                        |最近打开文件 目录             |%USERPROFILE%\Recent
+
+F19      |URL_Query           |bd                            |百度 搜索引擎                 |http://www.baidu.com/s?wd=
+F14      |UTF8_Query          |g                             |Google 搜索引擎               |http://www.google.com/search?q=
+F0       |URL_Query           |s                             |搜狗MP3 搜索引擎              |http://mp3.sogou.com/music.so?query=
+F9       |URL_Query           |zd                            |百度知道 搜索引擎             |http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word=
+F0       |UTF8_Query          |v                             |VeryCD 搜索引擎               |http://www.verycd.com/search/folders?kw=
+F0       |UTF8_Query          |y                             |Yahoo 搜索引擎                |http://search.yahoo.com/search?p=
+
+F15      |                    |Upgrade                       |前往 ALTRun 升级网址          |http://journeyboy.blog.sohu.com/112820379.html
+F1       |                    |Config                        |编辑 ALTRun 配置              |.\ALTRun.ini
+
+F1       |                    |AddRemoveProgram              |添加/删除程序                 |appwiz.cpl
+F0       |                    |ControlPanel                  |控制面板                      |control.exe
+F1       |                    |InternetConnection            |Internet控制                  |control.exe Inetcpl.cpl ,4
+F1       |                    |SystemProperty                |系统属性                      |Sysdm.cpl
+F102     |No_Encoding         |r                             |运行                          |{%p}
+F12      |URL_Query           |cb                            |百度 搜索剪贴板               |http://www.baidu.com/s?wd={%c}
+F25      |UTF8_Query          |cg                            |Google 搜索剪贴板             |http://www.google.com/search?q={%c}
+F16      |No_Encoding         |ShowOnly                      |只显示本窗口                  |@.\WinCtl.exe ShowOnly {%wd}
+F21      |No_Encoding         |Hide                          |隐藏本窗口                    |@.\WinCtl.exe Hide {%wd}
+F21      |                    |UnHide                        |恢复窗口                      |@.\WinCtl.exe UnHide
+F225     |                    |Everything-1.2.1.371          |Everything-1.2.1.371          |D:\some\everything\Everything-1.2.1.371.exe
+F125     |                    |cloudmusic                    |cloudmusic                    |D:\Program Files (x86)\Netease\CloudMusic\cloudmusic.exe
+F35      |                    |n                             |atom                          |C:\Users\dwzn4104\AppData\Local\atom\Update.exe --processStart atom.exe
+F28      |                    |VirtualBox                    |VirtualBox                    |"D:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
+F7       |                    |XMind                         |XMind                         |d:\Program Files (x86)\XMind\XMind.exe
+F76      |                    |xunlei                        |xunlei                        |D:\Program Files (x86)\Thunder Network\Thunder9\Program\Thunder.exe -StartType:DesktopIcon
+F228     |                    |audiosvc_client               |audiosvc_client               |E:\ccrelease\cc\client\audio_demo\audiosvc_client.exe
+F61      |                    |sublime_text                  |sublime_text                  |"D:\some\Sublime Text 3x64\sublime_text.exe"
+F410     |                    |WeChat                        |WeChat                        |D:\Program Files (x86)\Tencent\WeChat\WeChat.exe
+F173     |                    |weizhi                        |weizhi                        |D:\Program Files (x86)\WizNote\Wiz.exe
+F3       |                    |calc                          |calc                          |C:\Windows\system32\calc.exe
+F57      |                    |Snagit                        |Snagit                        |C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Snagit 10\Snagit 10.lnk
+F153     |                    |YodaoDict                     |YodaoDict                     |D:\Users\dwzn4104\AppData\Local\Youdao\Dict\YodaoDict.exe
+F124     |                    |Steam                         |Steam                         |D:\Program Files (x86)\Steam\Steam.exe
+F16      |                    |360WangPan                    |360WangPan                    |D:\Program Files (x86)\360\360WangPan\360WangPan.exe
+F37      |                    |SourceTree                    |SourceTree                    |C:\Users\dwzn4104\AppData\Local\SourceTree\SourceTree.exe
+F370     |                    |Xshell                        |Xshell                        |C:\Program Files (x86)\NetSarang\Xshell 5\Xshell.exe
+F1024    |                    |notepad++                     |notepad++                     |D:\Program Files (x86)\Notepad++\notepad++.exe
+F137     |                    |popo                          |popo                          |C:\Program Files (x86)\Netease\POPO\Start.exe
+F4       |                    |DTLite                        |DTLite                        |"D:\Program Files (x86)\DAEMON Tools Lite\DTLite.exe"
+F3       |                    |office_sub                    |office_sub                    |C:\Program Files\Sublime Text 3\sublime_text.exe
+F3       |                    |chrome                        |chrome                        |C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+F10      |                    |remote                        |remote                        |C:\Windows\system32\mstsc.exe
+F11      |                    |email                         |email                         |C:\Program Files (x86)\Netease\网易闪电邮\Start.exe
+F17      |                    |MarkdownPad2                  |MarkdownPad2                  |D:\some\MarkdownPad Pro 2.5.0 Build 27920 Final Portable.tt7z.com\markdownpad2-portable\MarkdownPad2.exe
+F3       |                    |Xftp                          |Xftp                          |D:\Program Files (x86)\NetSarang\Xftp 5\Xftp.exe
+F331     |                    |ccstable                      |ccstable                      |E:\ccrelease\cc\client\cc_qmainform_stable\Start.exe
+F0       |                    |utorrent                      |utorrent                      |D:\some\utorrent\utorrent.exe
+F119     |                    |postman                       |postman                       |C:\Program Files (x86)\Google\Chrome\Application\chrome.exe  --profile-directory=Default --app-id=fhbjgbiflinjbdggehcddcbncdddomop
+F31      |                    |firefox                       |firefox                       |C:\Program Files\Mozilla Firefox\firefox.exe
+F16      |                    |AxureRP8                      |AxureRP8                      |C:\Program Files (x86)\Axure RP 8\AxureRP8.exe
+F2       |                    |Velocity                      |Velocity                      |D:\Program Files (x86)\Silverlake Software LLC\Velocity\Velocity.exe
+F4       |                    |Photoshop                     |Photoshop                     |"D:\some\Adobe Photoshop CS5\Photoshop.exe"
+F53      |                    |CodeCompare                   |CodeCompare                   |D:\Program Files\Devart\Code Compare\CodeCompare.exe
+F20      |                    |MongoVUE                      |MongoVUE                      |D:\some\MongoVUe\MongoVUE.exe
+F0       |                    |TeamViewer                    |TeamViewer                    |C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+F3       |                    |visio                         |Microsoft Visio 2010          |"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office\Microsoft Visio 2010.lnk"
+F3       |                    |360AP                         |360AP                         |C:\Program Files (x86)\360AP\360AP.exe /menu
+F486     |                    |toouter                       |toouter                       |C:\Users\dwzn4104\baseScripts\toouter.bat
+F1       |                    |FreeMind                      |FreeMind                      |D:\Program Files (x86)\FreeMind\FreeMind.exe
+F5       |                    |obs32                         |obs32                         |D:\Program Files (x86)\obs-studio\bin\32bit\obs32.exe
+F5       |                    |360wifi                       |360wifi                       |C:\Program Files (x86)\360\360AP\360AP.exe /menu
+F11      |                    |matlab                        |matlab                        |"D:\Program Files\MATLAB\R2013a\bin\matlab.exe"
+F29      |                    |OBS                           |OBS                           |C:\Program Files (x86)\OBS\OBS.exe
+F150     |                    |iTools4                       |iTools4                       |D:\Program Files (x86)\ThinkSky\iTools 4\iTools4.exe
+F8       |                    |pphelper5                     |pphelper5                     |D:\Program Files (x86)\PP助手5.0\pphelper5.exe
+F27      |                    |Wireshark                     |Wireshark                     |D:\Program Files\Wireshark\Wireshark.exe
+F12      |                    |jmeter                        |jmeter                        |E:\jmeter\apache-jmeter-2.13\bin\jmeter.bat
+F6       |                    |eclipse                       |eclipse                       |D:\Users\dwzn4104\eclipse\java-oxygen\eclipse\eclipse.exe
+F374     |                    |toinner                       |toinner                       |C:\Users\dwzn4104\baseScripts\toinner.bat
+F2       |                    |navicat                       |navicat                       |"D:\some\navicatformysql\Navicat for MySQL\navicat.exe"
+F25      |                    |FlashFXP                      |FlashFXP                      |D:\some\FlashFXP_4.2.4.1785\FlashFXP.exe
+F10      |                    |monitor                       |monitor                       |D:\Users\dwzn4104\AppData\Local\Android\sdk\tools\lib\monitor-x86_64\monitor.exe
+F45      |                    |Fiddler                       |Fiddler                       |D:\Users\dwzn4104\AppData\Local\Programs\Fiddler\Fiddler.exe
+F0       |                    |powershell                    |powershell                    |C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+F270     |                    |pycharm                       |pycharm64                     |C:\Program Files (x86)\JetBrains\PyCharm 2016.1.2\bin\pycharm64.exe
+F0       |                    |SQLiteExpertPers32            |SQLiteExpertPers32            |D:\Program Files (x86)\SQLite Expert\Personal 4\SQLiteExpertPers32.exe
+F1       |                    |baseScripts                   |baseScripts                   |C:\Users\dwzn4104\baseScripts
+F131     |                    |cctrunk                       |cctrunk                       |E:\ccrelease\cc\client\cc_client_for_wonderful\Start.exe
+F5       |                    |hosts                         |hosts                         |C:\Windows\System32\drivers\etc\hosts
+F5       |                    |change_work                   |change_work                   |C:\Python27\python.exe C:\Users\dwzn4104\baseScripts\change_work.py
+F41      |                    |get_robot_num                 |get_robot_num                 |C:\Python27\python.exe C:\Users\dwzn4104\baseScripts\get_robot_num.py
+F12      |                    |mongo                         |mongo-3t                      |"D:\Program Files\3T Software Labs\Studio 3T\Studio-3T.exe"
+F140     |                    |Evernote                      |Evernote                      |D:\Program Files (x86)\Evernote\Evernote\Evernote.exe
+F14      |                    |dbforgemysql                  |dbforgemysql                  |D:\Program Files\Devart\dbForge Studio for MySQL\dbforgemysql.exe
+F0       |                    |Unlocker绿化器                |Unlocker绿化器                |D:\some\Unlocker_64\Unlocker绿化器.exe
+F0       |                    |note                          |YoudaoNote                    |D:\Program Files (x86)\Youdao\YoudaoNote\YoudaoNote.exe
+F1       |                    |yixin                         |yixin                         |C:\Program Files (x86)\Yixin\EasyChat\yixin.exe
+F95      |                    |MySQLWorkbench                |MySQLWorkbench                |"C:\Program Files\MySQL\MySQL Workbench 6.3 CE\MySQLWorkbench.exe"
+F11      |                    |Outlook 2013                  |Outlook 2013                  |"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Outlook 2013.lnk"
+F1       |                    |YoudaoNote                    |YoudaoNote                    |D:\Program Files (x86)\Youdao\YoudaoNote\YoudaoNote.exe
+F7       |                    |makefeixiang                  |makefeixiang                  |C:\Program Files (x86)\Maxiang\maxiang.exe
+F285     |                    |grabCharles                   |Charles                       |"C:\Program Files\Charles\Charles.exe"
+F4       |                    |clumsy                        |clumsy                        |D:\some\clumsy-0.2-win64\clumsy.exe
+F2       |                    |netlimiter-4.0.15.0.64        |netlimiter-4.0.15.0.64        |D:\Program Files\Locktime Software\NetLimiter 4\NLClientApp.exe
+F1       |                    |baretail                      |baretail                      |D:\some\baretail.exe
+F0       |                    |NemuPlayer                    |NemuPlayer                    |D:\Program Files (x86)\MuMu\emulator\nemu\EmulatorShell\NemuPlayer.exe
+F76      |                    |mumu                          |NemuPlayer                    |C:\Program Files (x86)\MuMu\emulator\nemu\EmulatorShell\NemuPlayer.exe
+F23      |                    |local_mapping                 |local_mapping                 |E:\我的一些文档\local_mapping.json
+F0       |                    |NLClientApp                   |NLClientApp                   |D:\Program Files\Locktime Software\NetLimiter 4\NLClientApp.exe
+F85      |                    |proto                         |proto                         |E:\work_love\voice\协议记录.md
+F1       |No_Encoding         |find                          |find                          |"D:\some\everything\Everything-1.2.1.371.exe" -search {%p}
+F1       |                    |sublime                       |sublime                       |"D:\some\Sublime Text 3x64\sublime_text.exe"
+F2       |                    |android                       |android                       |D:\Program Files\Android\Android Studio\bin\studio64.exe
+F0       |                    |query:'opt:%20(PlayLive%20VideoInterval%20CloseLive)')|sort:!('@timestamp'           |desc))
+F0       |                    |web.androidpackage            |web.androidpackage            |http://223.252.214.210:3000/android/huatian/versions
+F2       |                    |duanlian                      |duanlian                      |https://goo.gl/
+F85      |                    |web.newbug                    |web.newbug                    |http://cc.pm.netease.com:8082/projects/cc-bug/issues/new
+F14      |                    |web.one                       |web.one                       |http://cc.pm.netease.com:8082/issues/155017
+F1       |                    |web.day                       |web.day                       |http://cc.pm.netease.com:8082/projects/jyxm_ht/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=this_week_target_version&op%5Bthis_week_target_version%5D=%3D&v%5Bthis_week_target_version%5D%5B%5D=23&f%5B%5D=tracker_id&op%5Btracker_id%5D=%21&v%5Btracker_id%5D%5B%5D=10&v%5Btracker_id%5D%5B%5D=18&v%5Btracker_id%5D%5B%5D=20&f%5B%5D=&c%5B%5D=author&c%5B%5D=tracker&c%5B%5D=parent&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&group_by=cf_20
+F0       |                    |web.bugs                      |web.bugs                      |http://cc.pm.netease.com:8082/projects/jyxm_ht/issues?utf8=%E2%9C%93&set_filter=1&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=this_week_target_version&op%5Bthis_week_target_version%5D=%3D&v%5Bthis_week_target_version%5D%5B%5D=23&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=18&f%5B%5D=&c%5B%5D=author&c%5B%5D=tracker&c%5B%5D=parent&c%5B%5D=status&c%5B%5D=subject&c%5B%5D=assigned_to&group_by=cf_20
+F0       |                    |SciTE                         |SciTE                         |D:\some\wscite\SciTE.exe
+F7       |                    |test                          |test                          |C:\Users\dwzn4104\Desktop\ahks\test.ahk
+F8       |                    |redis                         |redis                         |D:\Program Files (x86)\RedisDesktopManager\rdm.exe
+F113     |                    |json                          |json                          |"c:\Program Files (x86)\Google\Chrome\Application\chrome.exe" chrome-extension://pkgccpejnmalmdinmhkkfafefagiiiad/json-format/index.html
+F6       |                    |time                          |time                          |"c:\Program Files (x86)\Google\Chrome\Application\chrome.exe" chrome-extension://pkgccpejnmalmdinmhkkfafefagiiiad/timestamp/index.html
+F430     |No_Encoding         |goto_redmine                  |goto_redmine                  |http://cc.pm.netease.com:8082/issues/{%c}
+F20      |                    |fresh                         |fresh                         |http://wiki.y.163.com/pages/viewpage.action?pageId=4371832#id-花田新人指南-8、测试中常用接口
+F8       |                    |hosts_inner                   |hosts_inner                   |C:\Windows\System32\drivers\etc\hosts_inner.txt
+F2       |                    |hosts_outer                   |hosts_outer                   |C:\Windows\System32\drivers\etc\hosts_outer.txt
+F0       |                    |WinSCP                        |WinSCP                        |C:\Program Files (x86)\WinSCP\WinSCP.exe
+F23      |No_Encoding         |gotoicc                       |gotoicc                       |http://icc.pm.netease.com/issues/{%c}?no_render_my=1
+F28      |                    |log_download                  |log_download                  |http://192.168.45.143:8008/documents/tmp.log
+F1       |                    |sheet                         |sheet                         |https://docs.google.com/spreadsheets/u/0/
+F42      |No_Encoding         |available                     |available                     |C:\Users\dwzn4104\workspace\scripts\check_available.py
+F18      |                    |iToolsAVM                     |iToolsAVM                     |D:\ThinkSky\iToolsAVM\iToolsAVM.exe
+F147     |                    |ccpublic                      |Start                         |"C:\Program Files (x86)\Netease\CC\Start.exe"
+F23      |                    |dirstable                     |cc_qmainform_stable           |E:\ccrelease\cc\client\cc_qmainform_stable
+F25      |                    |dirtrunk                      |trunk                         |E:\ccrelease\cc\client\cc_client_for_wonderful
+F1       |                    |dirpopo                       |dirpopo                       |D:\Users\dwzn4104\我的文档\我的POPO
+F4       |                    |goto_open                     |goto_open                     |C:\Users\dwzn4104\workspace\scripts\goto_open.py
+F0       |                    |page                          |page                          |http://cc.pm.netease.com:8082/my/page
+F9       |                    |tmp                           |tmp                           |https://docs.google.com/spreadsheets/d/15aSVZRL62MmsespzXVsa-T3yTf5ZSjreNNbw5Ytig2A/edit#gid=0
+F6       |                    |1cctrunk                      |1cctrunk                      |E:\ccrelease\cc\client\cc_client_for_wonderful-1\Start.exe
+F3       |                    |1dirtrunk                     |1dirtrunk                     |E:\ccrelease\cc\client\cc_client_for_wonderful-1
+F6       |                    |dirhost                       |dirhost                       |C:\Windows\System32\drivers\etc
+F0       |                    |TOTALCMD64                    |TOTALCMD64                    |C:\totalcmd\TOTALCMD64.EXE
+F1       |                    |dirlistary                    |dirlistary                    |C:\Users\dwzn4104\AppData\Roaming\Listary\UserData
+F7       |                    |dirhome                       |dirhome                       |E:\我的一些文档\家装
+F35      |UTF8_Query          |jd                            |京东搜索                      |https://search.jd.com/Search?enc=utf-8&suggest=1.his.0.0&wq=&pvid=7f829512e286448d9160dd5022925853&keyword=
+F69      |UTF8_Query          |tb                            |tb                            |https://s.taobao.com/search?q=
+F0       |                    |vpn                           |openvpn-gui                   |D:\Program Files\OpenVPN\bin\openvpn-gui.exe
+F3       |                    |crontab                       |crontab                       |http://www.atool.org/crontab.php
+F7       |UTF8_Query          |movie                         |movie                         |https://movie.douban.com/subject_search?search_text=
+F27      |                    |dirsdk                        |dirsdk                        |E:\测试工作\sdk
+F4       |                    |mtltest                       |mtltest                       |http://fit.nie.netease.com/orders
+F3       |                    |admin                         |admin                         |http://192.168.229.154:8988/mongoadmin/
+F2       |                    |bookmarks                     |bookmarks                     |chrome://bookmarks/
+F59      |                    |whitelist                     |whitelist                     |http://192.168.229.154:8988/mongoadmin/game_anchor_mgr/DwrgAnchorMgr/
+F5       |                    |vs                            |vs                            |D:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+F9       |                    |dir30                         |dir30                         |D:\othersWork\books\30天自制操作系统
+F8       |                    |book30                        |book30                        |D:\othersWork\books\30天自制操作系统\[30天自制操作系统].(川合秀实).周自恒等.扫描版.pdf
+F10      |                    |vlc                           |vlc                           |D:\Program Files\VideoLAN\VLC\vlc.exe
+F0       |                    |dirgame                       |dirgame                       |D:\games
+F5       |                    |dirmtl                        |dirmtl                        |E:\测试工作\MTL兼容性测试
+F0       |                    |dirweb                        |dirweb                        |E:\测试工作\赛事活动\平安京国际赛
+F5       |                    |kjl-software                  |kjl-software                  |C:\Program Files (x86)\kujiale\kjl-software.exe
+F39      |                    |obs64                         |obs64                         |C:\Users\dwzn4104\Desktop\obs-studio\obs-studio\bin\64bit\obs64.exe
+F0       |                    |state                         |state                         |http://beacon.cc.163.com/gamecoopadmin/gameproject
+F5       |                    |cpp                           |C++ Primer Plus（第6版）_中文版_带书签_超清|"D:\BaiduNetdiskDownload\C++ Primer Plus（第6版）_中文版_带书签_超清.pdf"
+F1       |                    |cfree                         |cfree                         |D:\Program Files (x86)\C-Free 5\CppIDE.exe
+F7       |                    |check_url_update              |check_url_update              |C:\Users\dwzn4104\workspace\scripts\check_url_update.py
+F7       |                    |diraudio                      |diraudio                      |E:\ccrelease\cc\client\audio_demo
+F0       |                    |cost                          |cost                          |http://my.cc.163.com/user/show_cticket_trade_history
+F43      |No_Encoding         |livelistinner                 |livelist_inner                |http://192.168.229.160:5358/game/live_list?game={%c}&page=1&size=50&islive=1
+F29      |No_Encoding         |livelistouter                 |livelist_outer                |http://atapi.audio.cc.163.com/game/live_list/{%c}?page=1&size=50&islive=1
+F28      |                    |encode                        |encode                        |"c:\Program Files (x86)\Google\Chrome\Application\chrome.exe" chrome-extension://pkgccpejnmalmdinmhkkfafefagiiiad/en-decode/index.html
+F9       |                    |msg_by_ccid                   |msg_by_ccid                   |C:\Users\dwzn4104\workspace\scripts\user_msg\msg_by_ccid.py
+F4       |                    |msg_by_uid                    |msg_by_uid                    |C:\Users\dwzn4104\workspace\scripts\user_msg\msg_by_uid.py
+F4       |                    |msg_by_urs                    |msg_by_urs                    |C:\Users\dwzn4104\workspace\scripts\user_msg\msg_by_urs.py
+F16      |                    |beacon                        |beacon                        |http://beacon.cc.163.com/gamecoopadmin/gameproject
+F28      |No_Encoding         |set_copyboard                 |set_copyboard                 |C:\Users\dwzn4104\workspace\scripts\set_copyboard.py
+F28      |                    |difflog                       |difflog                       |http://cc.nie.netease.com/work/tools/script/83/
+F0       |                    |standard                      |standard                      |http://km.netease.com/wiki/show?page_id=37896
+F13      |                    |playlive                      |playlive                      |http://km.netease.com/wiki/show?page_id=37991
+F12      |                    |closelive                     |closelive                     |http://km.netease.com/wiki/show?page_id=37992
+F14      |                    |videointerval                 |videointerval                 |http://km.netease.com/wiki/show?page_id=37993
+F42      |                    |urljson                       |urljson                       |http://cc.nie.netease.com/work/tools/script/84/
+F85      |                    |clienttype                    |clienttype                    |http://dm.sjfx.163.gz:8080/index_wiki/cc_log/code_tables/clienttype_code
+F41      |                    |userinfo                      |userinfo                      |http://cc.nie.netease.com/work/tools/script/2/
+F1       |                    |wikidm                        |wikidm                        |http://60.191.80.5/index/
+F16      |                    |liliao                        |liliao                        |http://br.oa.netease.com:8080/index/
+F3       |                    |xiaozhao                      |xiaozhao                      |E:\我的一些文档\2019校招
+F1       |                    |dirbook                       |dirbook                       |D:\othersWork\books
+F2       |                    |recent                        |recent                        |D:\othersWork\books\持续交付-发布可靠软件的系统方法完整版.pdf
+F1       |                    |allpage                       |allpage                       |http://km.netease.com/wiki/show?page_id=41307
+F1       |                    |checklist                     |checklist                     |http://cc.nie.netease.com/work/tools/script/90/
+F3       |                    |opt                           |opt                           |C:\Users\dwzn4104\workspace\scripts\opt.py
+F0       |                    |query:'opt:%20(PlayLive%20VideoInterval%20CloseLive)')|sort:!('@timestamp'           |desc))
+F18      |                    |elkbilog                      |elkbilog                      |http://t.cn/EZ27GGg
+F1       |                    |elkvideo                      |elkvideo                      |http://t.cn/EZ2k24M
+F1       |                    |games                         |games                         |http://cc.nie.netease.com/ccsdk/games
+F23      |No_Encoding         |get_games_by_name             |get_games_by_name             |python C:\Users\dwzn4104\workspace\scripts\get_games_by_name.py {%p}
+F2       |URL_Query           |ingametype                    |ingametype                    |http://dev.cc.163.com/category/{%c}
+F2       |URL_Query           |outgametype                   |outgametype                   |http://cc.163.com/category/{%c}
+F3       |                    |cmder                         |cmder                         |D:\some\cmder\Cmder.exe
